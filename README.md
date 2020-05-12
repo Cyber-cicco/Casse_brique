@@ -5,5 +5,9 @@ Nécessite d'avoir installé python et sa bibliothèque pygame pour fonctionner.
 https://www.python.org/downloads/
 https://zestedesavoir.com/tutoriels/846/pygame-pour-les-zesteurs/1381_a-la-decouverte-de-pygame/5503_installer-et-importer-pygame/
 
+Utiliser cette commande pour lancer le jeu :
+
+python3 Launcher.py
+
 # Bugs
 D'importants bugs de collision sont à prévoir.
